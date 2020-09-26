@@ -1,0 +1,15 @@
+*{
+    background-color: black;
+    color: greenyellow;
+}
+
+input{
+    display: block;
+}
+
+p{
+    color:rgb(251, 255, 0);
+}
+h1{
+    color: rgb(255, 102, 0);
+}
